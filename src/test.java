@@ -5,5 +5,7 @@ public class test {
         //asdasd
         //asdasdasdasd
         sd
+/asdasd/
+                sdssd
     }
 }
