@@ -8,7 +8,8 @@ public class test {
         sd
 
 
-                adasdad
+             checkout master
+        adasdad
                 asds
                         asfsdf
 
