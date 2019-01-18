@@ -7,8 +7,13 @@ public class test {
         asdasd
         sd
 
+<<<<<<< HEAD
 
              checkout master
+=======
+rebae
+          asd
+>>>>>>> rebase2
         adasdad
                 asds
                         asfsdf
